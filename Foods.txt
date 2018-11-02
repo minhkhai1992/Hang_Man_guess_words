@@ -1,0 +1,20 @@
+Pizza
+Pasta
+Steak
+Cake
+Broccoli
+Chicken
+Lamb
+Pork
+Green Beans
+Apples
+Popcorn
+Beef
+Oranges
+Rice
+Bread
+Eggs
+Shrimp
+Fish
+Tofu
+Nuts
